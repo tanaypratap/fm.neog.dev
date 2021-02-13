@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 date: '2019-12-26'
 title: 'How to get started with React'
 cover_image: './images/notebook.jpg'
